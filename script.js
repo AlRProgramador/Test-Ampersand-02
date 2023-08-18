@@ -1,1 +1,1 @@
-console.log("Aprendiendo con amigosS")
+console.log("Aprendiendo con amigos y compañeros")
